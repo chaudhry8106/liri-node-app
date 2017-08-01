@@ -1,0 +1,26 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Language Interpretation and Recognition Interface",
+  "main": "liri.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaudhry8106/liri-node-app.git"
+  },
+  "keywords": [
+    "twitter",
+    "tweets"
+  ],
+  "author": "Muhammad Chaudhry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chaudhry8106/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/chaudhry8106/liri-node-app#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
